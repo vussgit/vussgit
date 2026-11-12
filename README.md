@@ -1,6 +1,6 @@
 <div align="center">
 
-## vuss' README 📃
+## vuss (@vussgit)
 
 <p>
   <!-- backend -->
