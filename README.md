@@ -8,6 +8,7 @@
   <img alt="c++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
   <img alt="lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img alt="haskell" src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white" />
   
   <!-- webdev -->
   <img alt="html5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
